@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: genesis
+Version: 0.1.0
+Requires-Python: <3.14,>=3.13
+Requires-Dist: gradio
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: torchaudio
+Requires-Dist: diffusers
+Requires-Dist: accelerate

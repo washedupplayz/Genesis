@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/core/genesis_pipeline.py
+src/genesis.egg-info/PKG-INFO
+src/genesis.egg-info/SOURCES.txt
+src/genesis.egg-info/dependency_links.txt
+src/genesis.egg-info/requires.txt
+src/genesis.egg-info/top_level.txt
+src/ui/app.py
