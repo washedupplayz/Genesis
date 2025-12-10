@@ -8,3 +8,4 @@ Requires-Dist: torchvision
 Requires-Dist: torchaudio
 Requires-Dist: diffusers
 Requires-Dist: accelerate
+Requires-Dist: transformers
